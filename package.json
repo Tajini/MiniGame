@@ -1,0 +1,36 @@
+{
+  "name": "appgame",
+  "version": "0.52.3",
+  "description": "Le plein de mini jeux ! ",
+  "author": "DevTeamYnov",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "android": "0.0.8",
+    "babel": "^6.23.0",
+    "expo": "^31.0.6",
+    "expo-asset-utils": "0.0.5",
+    "expo-cli": "^2.5.0",
+    "expo-constants": "^1.1.0",
+    "expo-react-native-adapter": "^1.0.2",
+    "expo-three": "^3.0.0-alpha.5",
+    "git": "^0.1.5",
+    "prop-types": "15.6.2",
+    "react-native": "^0.57.1",
+    "react-native-console-time-polyfill": "1.0.0",
+    "react-navigation": "^3.0.8",
+    "text-encoding": "0.7.0",
+    "xmldom-qsa": "1.0.3",
+    "yarn": "^1.12.3"
+  },
+  "devDependencies": {
+    "react": "^16.6.3",
+    "schedule": "^0.4.0"
+  }
+}
