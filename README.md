@@ -16,7 +16,7 @@ Islem Ben zaied, Yacine Dricy, Gregory Blaugy, Gabriel Dubruncquez, Raphaël Mar
 Partages des tâches : 
 
 -	Islem : 
-o	Mini-jeu : Flappy Bird & Mario (hors version finale)
+o	Mini-jeu : Flappy Bird 
 -	Raphaël, Gregory, Gabriel : 
 o	Page d’accueil de l’application avec l’accès aux mini-jeux.
 o	Mise en place de l’architecture de base de l’application, comprenant les installations nécessaires.
