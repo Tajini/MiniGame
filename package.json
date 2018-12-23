@@ -24,7 +24,7 @@
     "prop-types": "15.6.2",
     "react-native": "^0.57.1",
     "react-native-console-time-polyfill": "1.0.0",
-    "react-navigation": "^3.0.8",
+    "react-navigation": "^3.0.9",
     "text-encoding": "0.7.0",
     "xmldom-qsa": "1.0.3",
     "yarn": "^1.12.3"
